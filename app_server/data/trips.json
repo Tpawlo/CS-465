@@ -1,0 +1,24 @@
+[
+    {
+        "name" : "Gale Reef",
+        "image" : "reef1.jpg",
+        "description" : "<p>Gale Reef Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac juston mollis vel vestibulum, orci gravida. Vestibulum sit amet portitor odio. Nulla facilisi. Fusce at pretium felis. </p><p>Sed consequat libero ut turpis venatis ut aliquam risus semper. Etiam convallia mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet </p>"
+    
+
+         
+    }, 
+
+
+    {
+        "name" : "Dawson Reef",
+        "image" : "reef2.jpg",
+        "description" : "<p>Dawson's Reef Integer magna leo, posuere et digninissim vtaeu, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elemntum sit amert aliquet quis, treistique quis nisl. Curabitur odio lacus, blandit uthenrerit </p><p> vulputate et est. Morbi aliquet viverra metus eu consectetur. In lorem duie, elemntum sit amet convallis ac,  tincidunt vel sapien. </p> "
+    }, 
+
+
+    {
+        "name" : "Claire's Reef",
+        "image" : "reef3.jpg",
+        "description" : "<p>Claire's Reef Donec sed fellos risus. Nulla facili. Donnec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras oprci neque, equsmod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non. </p><p>Vulputatr eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, curses in tortor. Quisque nec nunc ac mi ultrices iaculis. </p>"
+    }
+]
